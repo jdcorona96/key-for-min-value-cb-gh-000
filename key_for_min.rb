@@ -17,4 +17,4 @@ def key_for_min_value(name_hash)
   ret
 end
 
-key_for_min_value({one: 1, two: 2, three: 3})
+#key_for_min_value({one: 1, two: 2, three: 3})
