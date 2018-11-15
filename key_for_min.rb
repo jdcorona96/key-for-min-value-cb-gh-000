@@ -17,3 +17,5 @@ binding.pry
   end
   ret
 end
+
+key_for_min_value({one: 1 two: 2 three: 3})
